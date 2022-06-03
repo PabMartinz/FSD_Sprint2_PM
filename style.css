@@ -1,0 +1,31 @@
+.button{
+    background: rgb(177, 16, 43);
+    border:  1px black solid;
+}
+
+.button:hover{
+    border: 2px orange solid;
+}
+
+.card{
+    margin: 100px 50px;
+}
+
+.card-header{
+    background: rgb(61, 58, 240);
+}
+
+.form-control{
+    width: 60%;
+    margin-top: 2px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px 3px 0px 10px;
+}
+
+li{
+    border: 1px solid lightgray;
+    width: 50%;
+}
